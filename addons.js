@@ -11,6 +11,17 @@
 },
 
 //Apps
+{
+"device"="all",
+"name"="Googel Music 4.0.1",
+"market"="true",
+"installable"="true",
+"zipname"="Music2.apk",
+"url"="http://server.spencershwetz.com/Android/Addons/Music2.apk",
+"category"="applications",
+"density"="all",
+"description"="New Google Music pulled from ICS"
+},
 /**{
 "device"="all",
 "name"="Netflix",
