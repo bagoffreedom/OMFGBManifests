@@ -27,9 +27,9 @@
 "description"="Rule number 1, always blame me."
 },
 {
-  "device"="all",
-  "name"="lockscreen revamps",
-  "category"="linuxmotion",
-  "description"="Sense lockscreen shortcuts added. New music bar from sbrissen. "
+"device"="all",
+"name"="bagoffreedom's comment",
+"category"="linuxmotion",
+"description"="You don't wanna know. "
 }
 ]
