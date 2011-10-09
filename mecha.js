@@ -2,6 +2,16 @@
 {
 "device"="mecha",
 "base"="1.3.1",
+"version"=10-08,
+"date"="10-08",
+"name"="OMFGB_mecha-1.3.1_nightly-10-08-MOD.zip",
+"url"="http://server.spencershwetz.com/OMFGB_mecha-1.3.1_nightly-10-08-MOD.zip",
+"installable"="false",
+"description"="Samsung Torch fixed. God Mode flashing broken and unfixable due to CWM5 changes. GM market links working. Fixes to LS and SB music controls. Fixes to MIUI battery bar. Status ba swipe brightness controls added."
+},
+{
+"device"="mecha",
+"base"="1.3.1",
 "version"=10-5,
 "date"="10-5; network",   //title
 "name"="NetworkLocation.apk",
