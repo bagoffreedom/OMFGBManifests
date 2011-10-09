@@ -32,11 +32,4 @@
   "category"="linuxmotion",
   "description"="Sense lockscreen shortcuts added. New music bar from sbrissen. "
 }
-//bagoffreedom
-{
-"device"="all",
-"name"="Test name",
-"category"="Bagoffreedom",
-"description"="This is Spencer's comment"
-},
 ]
