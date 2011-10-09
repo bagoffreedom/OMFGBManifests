@@ -2,22 +2,22 @@
 {
 "device"="mecha",
 "base"="1.3.1",
-"version"=09-30,
-"date"="09-30x",
-"name"="OMFGB_mecha-1.3.1_nightly-09-30x.zip",
-"url"="http://r2doesinc.bitsurge.net/nightlies/mecha/OMFGB_mecha-1.3.1_nightly-09-30x.zip",
+"version"=10-5,
+"date"="10-5; network",   //title
+"name"="NetworkLocation.apk",
+"url"="http://db.tt/U974Crfk",
 "installable"="false",
-"description"="Blame the bot damnit. Fix audio."
+"description"="Network Locations file"
 },
 {
 "device"="mecha",
 "base"="1.3.1",
-"version"=09-30,
-"date"="09-30",
-"name"="OMFGB_mecha-1.3.1_nightly-09-30.zip",
-"url"="http://r2doesinc.bitsurge.net/nightlies/mecha/OMFGB_mecha-1.3.1_nightly-09-30.zip",
+"version"=10-5,
+"date"="10-5",
+"name"="OMFGB_mecha-1.3.1_nightly-09-22.zip",
+"url"="http://30.media.tumblr.com/tumblr_lrgb7mN3Mk1qija44o1_500.jpg",
 "installable"="false",
-"description"="Fix random soft reboots across all devices. Fix Droid X radio issues."
+"description"="This is Spencer's File"
 },
 {
 "device"="mecha",
@@ -27,7 +27,7 @@
 "name"="OMFGB_mecha-1.3.1_nightly-09-22.zip",
 "url"="http://r2doesinc.bitsurge.net/nightlies/mecha/OMFGB_mecha-1.3.1_nightly-09-22.zip",
 "installable"="false",
-"description"="Fix random soft reboots across all devices. Fix Droid X radio issues."
+"description"="(Test Description Edit)Fix random soft reboots across all devices. Fix Droid X radio issues."
 },
 {
 "device"="mecha",
